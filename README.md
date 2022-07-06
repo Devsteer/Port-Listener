@@ -3,7 +3,7 @@ relatively simple way to listen on a port. Written in python used to check if yo
 
 ## Installation
 You will need:
-* [Python](https://www.python.org/downloads/)
+* [Python](https://www.python.org/downloads/) if not on windows
 * Or one of the following
   * Windows
   * Linux
